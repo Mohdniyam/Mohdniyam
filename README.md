@@ -128,8 +128,9 @@ Built wallet system, seller-buyer modules, UI themes & backend features
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohdniyam&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohdniyam&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
