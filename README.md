@@ -1,37 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mohd Niya Mul Haque</h1>
-<h3 align="center">Full-Stack Engineer | Backend Specialist | Performance Optimizer</h3>
+<h1 align="center">Hi 👋 I'm Mohd Niya Mul Haque</h1>
+<h3 align="center">
+Senior Full-Stack Engineer · Backend Specialist · Performance Optimizer · Remote Ready
+</h3>
 
 <p align="center">
-Building scalable systems, optimizing backend performance, and shipping production-ready products.
+I design scalable backend systems, optimize performance, and ship production-grade products.  
+Open to <b>Remote Jobs</b> · <b>Freelancing</b> · <b>Open Source</b> · <b>Tech Collaborations</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer with **2.9 years** building scalable web apps  
-- ⚙️ Specialized in **Node.js, PostgreSQL, React, Next.js, Express**  
-- 🚀 Improved **API & database performance by 50%+**  
-- 🧠 Focused on **System Design, Scalability, CI/CD & DevOps**  
-- 🎯 Actively preparing for **product-based & FAANG-level roles**
+- 💻 Full-Stack Developer with **2.9+ years of experience** building scalable web applications  
+- ⚙️ Specialized in **Node.js, PostgreSQL, React.js, Next.js, Express.js**  
+- 🚀 Improved **API & database performance by 50%+** through query optimization & caching  
+- 🧠 Passionate about **System Design, Scalability, CI/CD, DevOps & Clean Architecture**  
+- 🎯 Preparing for **Remote roles, Product-based companies & FAANG-level engineering**
+
+---
+
+## 💼 Available For Remote Work & Freelancing
+
+I help startups, founders, and companies build:
+
+- ⚡ High-performance backend systems  
+- 🧠 Scalable SaaS & multi-tenant platforms  
+- 🚀 Fast, SEO-optimized full-stack web apps  
+- 🔒 Secure APIs with authentication & role-based access  
+- 📈 Performance improvements & database optimization  
+
+📩 Email: **niyamul.haque98@gmail.com**
 
 ---
 
 ## 🔭 Currently Working On
 
-- Building **high-scale full-stack SaaS applications**  
-- Optimizing **backend APIs & SQL query performance**  
-- Implementing **Docker, CI/CD pipelines, and AWS deployments**  
-- Designing **scalable system architecture & backend infrastructure**
+- Building **scalable SaaS platforms & backend systems**  
+- Optimizing **API response times & SQL queries**  
+- Implementing **Docker, CI/CD pipelines & AWS deployments**  
+- Designing **robust system architecture & backend infrastructure**  
+- Improving **DSA, system design & engineering depth**
 
 ---
 
 ## 🌱 Currently Learning
 
 - **Advanced System Design & Distributed Systems**  
-- **Docker, Kubernetes & Cloud Architecture (AWS)**  
-- **DSA & Competitive Coding**  
-- **High-performance backend optimization**
+- **Docker, Kubernetes & Cloud Infrastructure (AWS)**  
+- **High-performance backend engineering**  
+- **DSA & competitive programming**  
 
 ---
 
@@ -42,16 +60,17 @@ Building scalable systems, optimizing backend performance, and shipping producti
 - REST APIs, Authentication (JWT), Authorization  
 - Next.js & Full-Stack Architecture  
 - System Design, Scalability & Performance  
-- Docker, CI/CD, AWS, Nginx & Deployment  
+- Docker, CI/CD, AWS, Nginx & Production Deployments  
 
 ---
 
 ## 🧠 Engineering Mindset
 
-- Writing **clean, maintainable, scalable code**  
-- Optimizing for **performance, reliability & developer experience**  
-- Thinking in **systems, trade-offs, and long-term architecture**  
-- Building products with **real-world impact & business value**
+- Writing **clean, scalable, maintainable code**  
+- Optimizing for **performance, reliability & long-term scalability**  
+- Thinking in **systems, trade-offs & architecture decisions**  
+- Building **real-world products with business impact**  
+- Continuously improving as a **senior-level engineer**
 
 ---
 
@@ -77,16 +96,24 @@ Git · GitHub · Postman · Linux
 ## 📌 Featured Projects
 
 ### 🚚 Delivery Management System  
-Scalable backend system with role-based access, optimized queries & real-time tracking  
+Scalable backend platform with role-based access, optimized queries & real-time tracking  
 **Tech:** Node.js · PostgreSQL · React  
 
 ### 📝 Full-Stack Blogging Platform  
-SEO-optimized blog platform with authentication & CI/CD automation  
+SEO-optimized blogging system with authentication, CI/CD & Docker automation  
 **Tech:** Next.js · Node.js · PostgreSQL · Docker  
 
 ### 🛒 Dukaandaar (E-Commerce Platform)  
-Built wallet system, seller-buyer modules, and production UI themes  
+Built wallet system, seller-buyer modules, UI themes & backend features  
 **Tech:** MERN Stack  
+
+---
+
+## 🌍 Open Source & Community
+
+- Open to contributing to **Backend, DevOps, SaaS & Developer Tools**  
+- Interested in **collaborating on meaningful open-source projects**  
+- Passionate about **building tools that help developers & startups**
 
 ---
 
@@ -108,11 +135,11 @@ Built wallet system, seller-buyer modules, and production UI themes
 
 ## 📫 Connect With Me
 
-- 📧 Email: niyamul.haque98@gmail.com  
+- 📧 Email: **niyamul.haque98@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohd-niya-mul-haque-cse/  
-- 🌐 Portfolio: niyam-portfolio.pages.dev  
+- 🌐 Portfolio: https://niyam-portfolio.pages.dev  
 
 ---
 
 ⚡ **Fun Fact:**  
-I love turning **slow backends into lightning-fast systems** 🚀
+I love turning **slow backend systems into lightning-fast, scalable platforms** 🚀  
