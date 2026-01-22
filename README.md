@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Mohd Niya Mul Haque</h1>
 <h3 align="center">
-Senior Full-Stack Engineer · Backend Specialist · Performance Optimizer · Remote Ready
+ Full-Stack Engineer · Backend Specialist · Performance Optimizer · Remote Ready
 </h3>
 
 <p align="center">
@@ -128,8 +128,9 @@ Built wallet system, seller-buyer modules, UI themes & backend features
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohdniyam&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mohdniyam&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
