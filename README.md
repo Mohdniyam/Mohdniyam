@@ -12,7 +12,7 @@ Open to <b>Remote Jobs</b> · <b>Freelancing</b> · <b>Open Source</b> · <b>Tec
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer with **2.9+ years of experience** building scalable web applications  
+- 💻 Full-Stack Developer with **3+ years of experience** building scalable web applications  
 - ⚙️ Specialized in **Node.js, PostgreSQL, React.js, Next.js, Express.js**  
 - 🚀 Improved **API & database performance by 50%+** through query optimization & caching  
 - 🧠 Passionate about **System Design, Scalability, CI/CD, DevOps & Clean Architecture**  
